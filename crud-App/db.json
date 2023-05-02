@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "JohnDoe@gmail.com",
+      "dob": "1979-04-08T23:00:00.000Z",
+      "gender": "male",
+      "company": "HHH",
+      "education": "Msc",
+      "experience": "12",
+      "package": "200000",
+      "id": 1
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "JaneDoe@gmail.com",
+      "dob": "1979-04-08T23:00:00.000Z",
+      "gender": "male",
+      "company": "HHH",
+      "education": "Msc",
+      "experience": "12",
+      "package": "200000",
+      "id": 1
+    },
+    {
+      "firstName": "Shafraz",
+      "lastName": "Boharie",
+      "email": "boharie@gmail.com",
+      "dob": "2023-04-09T23:00:00.000Z",
+      "gender": "",
+      "company": "Brady",
+      "education": "Msc",
+      "experience": "12",
+      "package": "200000",
+      "id": 2
+    }
+  ]
+}
